@@ -1,1 +1,3 @@
 Hello
+Szia
+Szevasz
